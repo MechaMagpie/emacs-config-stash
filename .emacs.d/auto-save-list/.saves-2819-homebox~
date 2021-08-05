@@ -1,0 +1,8 @@
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/applications/linux_lan9252demo/main.c
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!applications!linux_lan9252demo!main.c#
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/applications/linux_lan9252demo/slave.xml
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!applications!linux_lan9252demo!slave.xml#
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/applications/linux_lan9252demo/slave.bin
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!applications!linux_lan9252demo!slave.bin#
+/home/emma/.emacs.d/recentf
+~/.saves/#!home!emma!.emacs.d!recentf#

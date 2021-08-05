@@ -1,0 +1,10 @@
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/soes/hal/linux-lan9252/esc_hw.c
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!soes!hal!linux-lan9252!esc_hw.c#
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/soes/esc.h
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!soes!esc.h#
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/drivers/linux/lan9252/lan9252.c
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!drivers!linux!lan9252!lan9252.c#
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/drivers/linux/lan9252/Makefile
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!drivers!linux!lan9252!Makefile#
+/home/emma/.emacs.d/recentf
+~/.saves/#!home!emma!.emacs.d!recentf#

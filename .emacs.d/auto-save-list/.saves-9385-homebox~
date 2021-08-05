@@ -1,0 +1,14 @@
+/ssh:emma@emma-pi-1.local:/home/emma/SG/EtherBerry_Code_v1.6/EtherBerry.h
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SG!EtherBerry_Code_v1.6!EtherBerry.h#
+/ssh:emma@emma-pi-1.local:/home/emma/SG/EtherBerry_Code_v1.6/EtherBerry_Test.cpp
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SG!EtherBerry_Code_v1.6!EtherBerry_Test.cpp#
+/ssh:emma@emma-pi-1.local:/home/emma/SG/EtherBerry_Code_v1.6/EtherBerry.cpp
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SG!EtherBerry_Code_v1.6!EtherBerry.cpp#
+/ssh:emma@emma-pi-1.local:/home/emma/SG/EtherBerry_Code_v1.6/bcm2835-1.50/config.h
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SG!EtherBerry_Code_v1.6!bcm2835-1.50!config.h#
+/ssh:emma@emma-pi-1.local:/home/emma/SOES/README.md
+~/.saves/#!ssh:emma@emma-pi-1.local:!home!emma!SOES!README.md#
+/ssh:emma@emma-pi-1.local:/SG
+~/.saves/#!ssh:emma@emma-pi-1.local:!SG#
+/home/emma/.emacs.d/recentf
+~/.saves/#!home!emma!.emacs.d!recentf#
